@@ -15,7 +15,6 @@ if __name__ == '__main__':
     parser = setup_args()
     parser.set_params(
         model='parlai.agents.k_model.k_agent:KMethod',
-        dict_lower=True,
         rank_candidates=True,
         batchsize=32,
     )
