@@ -1,0 +1,10 @@
+{
+    "use_cuda": true,
+    "learning_rate": 0.001,
+    "alpha": 0.5,
+    "build_dic": false,
+    "sim_dim": 512,
+    "lamda": 0.3,
+    "epo_num": 4,
+    "retrain_emb": false
+}
