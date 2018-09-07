@@ -1,4 +1,6 @@
+
 # Introduction
+- This repository is submitted to convai2 Competition (http://convai.io/)
 - Team name: Cats'team 
 - Model name: lstmSim
 # Installation 
